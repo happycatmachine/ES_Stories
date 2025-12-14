@@ -1,0 +1,156 @@
+filters:
+  and:
+    - file.folder != "templates"
+views:
+  - type: table
+    name: has narrative cell
+    filters:
+      and:
+        - file.folder == "chips"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: chip_sub_type_1
+        direction: ASC
+      - property: full_chip_name
+        direction: ASC
+  - type: cards
+    name: other Humanoids
+    filters:
+      and:
+        - type == link("Humanoid")
+    order:
+      - file.name
+      - level
+      - full_chip_name
+    sort:
+      - property: level
+        direction: ASC
+  - type: table
+    name: found in all provinces
+    filters:
+      and:
+        - province == link("General")
+    order:
+      - level
+      - file.name
+      - skills
+      - range
+      - health
+    sort:
+      - property: lv
+        direction: ASC
+      - property: chip_sub_type_1
+        direction: ASC
+      - property: full_chip_name
+        direction: ASC
+    columnSize:
+      file.name: 191
+      note.skills: 273
+  - type: table
+    name: from Morrowind
+    filters:
+      and:
+        - province == link("Morrowind")
+    order:
+      - level
+      - file.name
+      - skills
+      - Flip
+    sort:
+      - property: chip_sub_type_1
+        direction: ASC
+      - property: full_chip_name
+        direction: ASC
+    columnSize:
+      file.name: 138
+      note.skills: 200
+      note.Flip: 307
+  - type: table
+    name: Black Marsh
+    filters:
+      and:
+        - province == link("Black Marsh")
+    order:
+      - level
+      - file.name
+      - skills
+      - Flip
+    sort:
+      - property: chip_sub_type_1
+        direction: ASC
+      - property: full_chip_name
+        direction: ASC
+    columnSize:
+      file.name: 170
+      note.skills: 219
+  - type: table
+    name: from Cyrodiil
+    filters:
+      and:
+        - province == link("Cyrodiil")
+    order:
+      - level
+      - file.name
+      - skills
+      - Flip
+    sort:
+      - property: chip_sub_type_1
+        direction: ASC
+      - property: full_chip_name
+        direction: ASC
+    columnSize:
+      file.name: 138
+      note.skills: 200
+      note.Flip: 307
+  - type: table
+    name: from High Rock
+    filters:
+      and:
+        - province == link("High Rock")
+    order:
+      - level
+      - file.name
+      - skills
+      - Flip
+    sort:
+      - property: chip_sub_type_1
+        direction: ASC
+      - property: full_chip_name
+        direction: ASC
+    columnSize:
+      file.name: 138
+      note.skills: 200
+      note.Flip: 307
+  - type: cards
+    name: tiled province list
+    filters:
+      and:
+        - file.tags.contains("province")
+    image: note.map_file
+  - type: table
+    name: Rush skill
+    filters:
+      and:
+        - skills.contains("Rush")
+  - type: table
+    name: from Valenwood
+    filters:
+      and:
+        - province == link("Valenwood")
+    order:
+      - level
+      - file.name
+      - skills
+      - Flip
+    sort:
+      - property: chip_sub_type_1
+        direction: ASC
+      - property: full_chip_name
+        direction: ASC
+    columnSize:
+      file.name: 160
+      note.skills: 303
+      note.Flip: 307

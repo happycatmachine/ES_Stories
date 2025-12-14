@@ -1,0 +1,1 @@
+You cannot store more than 3 xp between reward phases. Any XP in excess of 3 that remains after spending XP is converted to Tenacity.

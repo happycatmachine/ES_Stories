@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "a96f875d5511c607",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5baf33b891b21f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f75b9ff4194e6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a den of thieves and scoundrels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a den of thieves and scoundrels"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f71d7f4637deb32",
+    "type": "split",
+    "children": [
+      {
+        "id": "c22543206ed30484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95409002b1516e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dac13d16005b2500",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "demon",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa11e0d9c77ca1aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1960b0c71b5eda2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f64848db70975a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d39822963aeb56ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mammoth - Bull Mammoth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mammoth - Bull Mammoth"
+            }
+          },
+          {
+            "id": "8698c3a2b411c01e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Testing page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Testing page"
+            }
+          },
+          {
+            "id": "7a79fe7878467956",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cce2d94728c8b9e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "a den of thieves and scoundrels.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of a den of thieves and scoundrels"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4f75b9ff4194e6e4",
+  "lastOpenFiles": [
+    "chips/Argonian Bandit - Argonian Marauder.md",
+    "a den of thieves and scoundrels.md",
+    "Testing page.md",
+    "They came to assist us, or so they say.md",
+    "Welcome.md",
+    "units/units.md",
+    "provinces/Cyrodiil.md",
+    "provinces/Black Marsh.md",
+    "Provinces.md",
+    "chips/Skeever Pup - Skeever.md",
+    "narratives/Skeever grows up.md",
+    "templates/fm-chip.md",
+    "bases/narratives for chip.base",
+    "chips/Wood Orc Bandit - Wood Orc Marauder.md",
+    "units/enemy_units/Wood Orc Bandit.md",
+    "Humanoid.md",
+    "templates/fm-narrative.md",
+    "templates/Untitled.md",
+    "narratives",
+    "Skeleton - Skeleton Mage.md",
+    "chips/Breton Usurper - Orc Warlord.md",
+    "bases/units_base.base",
+    "units/enemy_units/Skeever Pup.md",
+    "units/enemy_units/Skeever.md",
+    "units/enemy_units/Argonian Marauder.md",
+    "chips/Imperial Enforcer - Wood Elf Deadeye.md",
+    "chips/Mammoth - Bull Mammoth.md",
+    "chips/Bonelord - Bone Colossus.md",
+    "chips/Banekin - Storm Atronach.md",
+    "bases/base_base.base",
+    "attachments/img-valenwood.jpg",
+    "skills",
+    "attachments/img-morrowind.jpg",
+    "attachments/map-blackmarsh.jpg",
+    "attachments/img-highrock.jpg",
+    "provinces",
+    "attachments/map-cyrodiil.jpg",
+    "bases",
+    "chips",
+    "units/enemy_units",
+    "enemy_units",
+    "attachments/icons in es/battle form icons/light-weapon.svg",
+    "attachments/icons in es/battle form icons/magic.svg",
+    "attachments/icons in es/battle form icons/heavy-weapon.svg",
+    "attachments/icons in es/battle form icons/defensive.svg",
+    "attachments/icons in es/skill abilitiy icons/drained.svg"
+  ]
+}

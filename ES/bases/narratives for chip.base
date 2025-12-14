@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: narratives for this chip
+    filters:
+      and:
+        - narrative_chips.contains(this.file.name)
+    order:
+      - file.name
+      - narrative_type
+    columnSize:
+      file.name: 218

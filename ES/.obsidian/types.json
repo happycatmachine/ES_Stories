@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "health": "number",
+    "range": "number",
+    "level": "number",
+    "skills": "multitext",
+    "combat": "number",
+    "defense": "number",
+    "abilities": "multitext",
+    "enemies": "multitext",
+    "narrative": "multitext",
+    "has_sides": "multitext",
+    "narrative_elements": "multitext",
+    "narrative_chips": "multitext",
+    "narrative_type": "multitext",
+    "chip_real": "checkbox"
+  }
+}
