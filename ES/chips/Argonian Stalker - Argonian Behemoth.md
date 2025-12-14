@@ -4,4 +4,8 @@ has_sides:
   - "[[Argonian Behemoth]]"
 tags:
   - chip
+narrative_elements:
 ---
+
+
+![[narratives for chip.base]]

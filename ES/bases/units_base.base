@@ -6,35 +6,6 @@ properties:
     displayName: unit name
 views:
   - type: table
-    name: enemy units
-    filters:
-      and:
-        - file.inFolder("units/enemy_units")
-    order:
-      - level
-      - chip_sub_type_1
-      - file.name
-      - health
-      - range
-      - combat
-      - defense
-      - targets
-      - skills
-      - full_chip_name
-    sort:
-      - property: health
-        direction: ASC
-    columnSize:
-      note.level: 65
-      note.chip_sub_type_1: 66
-      file.name: 178
-      note.health: 32
-      note.range: 14
-      note.combat: 6
-      note.defense: -2
-      note.targets: 29
-      note.skills: 218
-  - type: table
     name: general pool only
     filters:
       and:

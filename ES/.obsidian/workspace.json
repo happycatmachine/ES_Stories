@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a den of thieves and scoundrels.md",
+                "file": "narratives/Skeever grows up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a den of thieves and scoundrels"
+              "title": "Skeever grows up"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a den of thieves and scoundrels.md",
+                "file": "narratives/Skeever grows up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of a den of thieves and scoundrels"
+              "title": "Outline of Skeever grows up"
             }
           }
         ],
@@ -170,10 +170,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f75b9ff4194e6e4",
+  "active": "b95409002b1516e6",
   "lastOpenFiles": [
     "chips/Argonian Bandit - Argonian Marauder.md",
-    "a den of thieves and scoundrels.md",
+    "chips/Bonelord - Bone Colossus.md",
+    "chips/Breton Usurper - Orc Warlord.md",
+    "chips/Mammoth - Bull Mammoth.md",
+    "chips/Imperial Enforcer - Wood Elf Deadeye.md",
+    "chips/Banekin - Storm Atronach.md",
+    "chips/Argonian Stalker - Argonian Behemoth.md",
+    "chips/Skeever Pup - Skeever.md",
+    "narratives/a den of thieves and scoundrels.md",
+    "bases/units_base.base",
+    "bases/base_base.base",
+    "bases/narratives for chip.base",
     "Testing page.md",
     "They came to assist us, or so they say.md",
     "Welcome.md",
@@ -181,10 +191,8 @@
     "provinces/Cyrodiil.md",
     "provinces/Black Marsh.md",
     "Provinces.md",
-    "chips/Skeever Pup - Skeever.md",
     "narratives/Skeever grows up.md",
     "templates/fm-chip.md",
-    "bases/narratives for chip.base",
     "chips/Wood Orc Bandit - Wood Orc Marauder.md",
     "units/enemy_units/Wood Orc Bandit.md",
     "Humanoid.md",
@@ -192,16 +200,8 @@
     "templates/Untitled.md",
     "narratives",
     "Skeleton - Skeleton Mage.md",
-    "chips/Breton Usurper - Orc Warlord.md",
-    "bases/units_base.base",
     "units/enemy_units/Skeever Pup.md",
     "units/enemy_units/Skeever.md",
-    "units/enemy_units/Argonian Marauder.md",
-    "chips/Imperial Enforcer - Wood Elf Deadeye.md",
-    "chips/Mammoth - Bull Mammoth.md",
-    "chips/Bonelord - Bone Colossus.md",
-    "chips/Banekin - Storm Atronach.md",
-    "bases/base_base.base",
     "attachments/img-valenwood.jpg",
     "skills",
     "attachments/img-morrowind.jpg",
