@@ -1,7 +1,5 @@
 ---
 has_sides:
-  - "[[Breton Usurper]]"
-  - "[[Orc Warlord]]"
 tags:
   - chip
 narrative_elements:

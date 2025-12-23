@@ -10,7 +10,7 @@ views:
     filters:
       and:
         - file.inFolder("units/enemy_units")
-        - province_code == link("General")
+        - province == link("General")
     order:
       - level
       - file.name
@@ -20,6 +20,7 @@ views:
       - defense
       - targets
       - skills
+      - full_chip_name
     sort:
       - property: health
         direction: ASC

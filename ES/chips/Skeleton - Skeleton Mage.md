@@ -1,7 +1,7 @@
 ---
 has_sides:
-  - "[[Breton Usurper]]"
-  - "[[Orc Warlord]]"
+  - "[[Skeleton]]"
+  - "[[Skeleton Mage]]"
 tags:
   - chip
 narrative_elements:

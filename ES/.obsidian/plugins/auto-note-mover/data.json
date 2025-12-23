@@ -17,6 +17,16 @@
       "folder": "skills",
       "tag": "#skill",
       "pattern": ""
+    },
+    {
+      "folder": "narratives",
+      "tag": "#narrative",
+      "pattern": ""
+    },
+    {
+      "folder": "characters",
+      "tag": "#character",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
