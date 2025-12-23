@@ -1,8 +1,6 @@
-Is thi..
+This is my first git-thingy so apologies for the mess...then I've never seen a git page that has appealed to me.
 
-THis is my first git-thingy so apologies for the mess...then I've never seen a git page that has appealed to me.
-
-Anyway, this is a Vault
+Anyway, this is a Vault. It's intent is to provide a framework for creating Elder Scrolls (BOTSE) narratives (stories, adventures, and so on) Right now it's more a storage structure for such narratives, the UI and the friendliness (of where there is none) is reliant on what Obsidian provides.
 
 It works with Obsidian. No addons needed but do have a play with the appearance settings to your taste.
 
