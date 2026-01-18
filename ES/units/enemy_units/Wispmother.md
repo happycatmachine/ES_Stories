@@ -1,12 +1,12 @@
 ---
-chip_type: "Enemy"
-chip_sub_type_1: "1-5"
-name: "Whispmother"
+chip_type: Enemy
+chip_sub_type_1: 1-5
+name: Wispmother
 province: "[[General]]"
 level: 5
 type: "[[Daedra]]"
 targets: "1"
-priority: "Weakest"
+priority: Weakest
 health: 4
 range: 4
 combat: 3

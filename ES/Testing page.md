@@ -1,6 +1,6 @@
 ---
 enemies:
-  - "[[Whispmother]]"
+  - "[[Wispmother]]"
   - "[[Will-O-The-Wisp]]"
 ---
 ## inline icons, |20

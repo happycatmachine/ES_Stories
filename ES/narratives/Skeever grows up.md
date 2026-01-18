@@ -5,10 +5,10 @@ narrative_chips:
   - "[[Skeever Pup - Skeever]]"
 narrative_type:
   - chip flip
-  - pet
+  - companion
 ---
 
-Some [[Skeever Pup]] just tried to steal my lunch, discard X FOOD item type cards from their inv or reserve.
+
 
 Over  the next two battles the [[Skeever Pup]] evolves into a [[Skeever]].
 

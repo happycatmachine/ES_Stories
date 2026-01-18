@@ -16,6 +16,8 @@
     "narrative_elements": "multitext",
     "narrative_chips": "multitext",
     "narrative_type": "multitext",
-    "chip_real": "checkbox"
+    "chip_real": "checkbox",
+    "adventurers": "multitext",
+    "skill_classifications": "multitext"
   }
 }

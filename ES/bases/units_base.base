@@ -10,7 +10,7 @@ views:
     filters:
       and:
         - file.inFolder("units/enemy_units")
-        - province == link("General")
+        - province == link("Valenwood")
     order:
       - level
       - file.name
@@ -21,7 +21,10 @@ views:
       - targets
       - skills
       - full_chip_name
+      - type
     sort:
+      - property: level
+        direction: ASC
       - property: health
         direction: ASC
       - property: skills
@@ -154,4 +157,16 @@ views:
   - type: table
     name: chips
     order:
+      - full_chip_name
+  - type: cards
+    name: View
+    filters:
+      and:
+        - type == link("Daedra")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - skills
       - full_chip_name
