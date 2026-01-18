@@ -10,8 +10,8 @@ views:
     filters:
       and:
         - file.inFolder("units/enemy_units")
-        - province == link("Valenwood")
     order:
+      - full_chip_name
       - level
       - file.name
       - health
@@ -20,9 +20,10 @@ views:
       - defense
       - targets
       - skills
-      - full_chip_name
       - type
     sort:
+      - property: full_chip_name
+        direction: ASC
       - property: level
         direction: ASC
       - property: health
